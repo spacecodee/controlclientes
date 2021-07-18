@@ -1,7 +1,8 @@
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jstl/fmt" %>
 <fmt:setLocale value="es_PE"/>
 
-<div class="modal fade" id="agregarClienteModal">
+<meta charset="UTF-8">
+<div class="modal fade" id="agregarClienteModal" lang="es">
     <div class="modal-dialog modal-lg">
         <div class="modal-content">
             <div class="modal-header bg-info text-white">
